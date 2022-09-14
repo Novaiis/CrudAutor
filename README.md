@@ -1,7 +1,7 @@
 # CrudAutor
 Outro projeto de faculdade feito em Java que consiste em um CRUD simples com o tema de Autor!
 
-Ilustração:
+# Ilustração:
 
 ![crud_autor](https://user-images.githubusercontent.com/67906243/190234967-73c093dc-1692-4b68-908a-0d5076604902.png)
 
